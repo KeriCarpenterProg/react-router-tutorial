@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-router-tutorial/static/css/main.073c9b0a.css",
+    "main.js": "/react-router-tutorial/static/js/main.910c44f5.js",
+    "static/js/787.c072d29b.chunk.js": "/react-router-tutorial/static/js/787.c072d29b.chunk.js",
+    "index.html": "/react-router-tutorial/index.html",
+    "main.073c9b0a.css.map": "/react-router-tutorial/static/css/main.073c9b0a.css.map",
+    "main.910c44f5.js.map": "/react-router-tutorial/static/js/main.910c44f5.js.map",
+    "787.c072d29b.chunk.js.map": "/react-router-tutorial/static/js/787.c072d29b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.910c44f5.js"
+  ]
+}
