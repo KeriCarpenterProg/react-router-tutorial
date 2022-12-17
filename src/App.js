@@ -9,7 +9,6 @@ import { PropsPractice } from "./pages/PropsPractice";
 import { LiveStream } from "./pages/LiveStream";
 import { BrowserHistory } from "./pages/BrowserHistory";
 import { Nav } from "./pages/Nav";
-
 function App() {
   return (
     <>
