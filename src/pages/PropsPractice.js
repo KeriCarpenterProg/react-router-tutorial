@@ -32,7 +32,10 @@ export function PropsPractice() {
   return (
     <div className="propsPractice">
       <h1>Props Practice</h1>
-      <BlogList blogs={blogs} title="This is all the blogs" />
+      <BlogList
+        blogs={blogs}
+        title="This will print out all the blogs from an array"
+      />
       <BlogList
         blogs={blogs.filter((blog) => blog.author === "mario")}
         title="Mario's Blogs"
