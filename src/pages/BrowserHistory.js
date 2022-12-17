@@ -8,7 +8,6 @@ export function BrowserHistory() {
         vero facilis at officiis aut doloremque, doloribus veniam? Laudantium
         magni quaerat deleniti autem.
       </p>
-      ;
     </div>
   );
 }
